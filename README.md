@@ -1,5 +1,7 @@
 ## redshift-and-PowerBI
 
+https://cuchujr23.substack.com/p/guide-to-integrate-aws-s3-redshift
+
 # Step 1: Create a Bucket in S3
 1. Access S3:
 - Log in to the AWS console.
